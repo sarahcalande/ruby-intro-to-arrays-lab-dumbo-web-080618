@@ -21,7 +21,7 @@ def last_element(array)
 end
 
 first_element_with_array_methods(array)
-  array.at(0)
+  array.first
 end
 
 
