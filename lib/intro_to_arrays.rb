@@ -20,4 +20,4 @@ def last_element(array)
   array[-1]
 end
 
-first_element_with_array_methods
+first_element_with_array_methods(array)
